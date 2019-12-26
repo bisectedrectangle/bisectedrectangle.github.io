@@ -105,9 +105,10 @@ So what’s ne
 This will be my CSS style document after things are finalized
 
 
- @font-face{
+@font-face{
       src: url(HTOWERT.TTF));
       font-family: hightowertext;
+   }
     h1 {
       color: black;
       background-color: rgb(255, 192, 0);
