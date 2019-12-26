@@ -106,7 +106,7 @@ This will be my CSS style document after things are finalized
 
 
 @font-face{
-      src: url(HTOWERT.TTF));
+      src: url(HTOWERT.TTF);
       font-family: hightowertext;
    }
     h1 {
