@@ -103,5 +103,25 @@ input, select {
 So what’s ne
 
 This will be my CSS style document after things are finalized
-Add < before I finish
-link rel="stylesheet' href="style.css>
+
+
+ @font-face{
+      src: url(HTOWERT.TTF));
+      font-family: hightowertext;
+    h1 {
+      color: black;
+      background-color: rgb(255, 192, 0);
+      font-size: 50px;
+      text-align: center;
+      margin: 0px;
+      font-family: hightowertext;
+    }
+    h2 {
+      color: rgb(255, 192, 0);
+      background-color: black;
+      margin: 0px;
+      font-family: hightowertext;
+    }
+
+
+
