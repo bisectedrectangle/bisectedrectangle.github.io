@@ -41,7 +41,7 @@ ul {
 }
 
 ul li {
-      outline: 1px dashed red;
+      outline: 1px solid red;
       list-style: none;
       display: inline-block;
       float: left;
