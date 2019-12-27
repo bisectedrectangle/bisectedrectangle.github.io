@@ -41,8 +41,7 @@ ul {
 }
 
 ul li {
-      outline-width: 1px ;
-      outline-color: rgb (0, 0, 0);
+      outline: 1px dashed red;
       list-style: none;
       display: inline-block;
       float: left;
