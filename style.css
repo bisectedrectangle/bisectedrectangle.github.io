@@ -43,6 +43,7 @@ ul {
 ul li {
       outline: 1px solid red;
       list-style: none;
+      float: left;
       display: inline-block;
       line-height: 100px;
 }
@@ -61,5 +62,4 @@ nav{
 }
 ul li a:hover {
     color: rgb(255, 255, 255);
-    outline: 1px solid black;
 }
