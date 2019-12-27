@@ -41,8 +41,6 @@ ul {
 }
 
 ul li {
-      outline: 1 px; 
-      outline-width rgb(0, 0, 0);
       list-style: none;
       display: inline-block;
       float: left;
@@ -50,6 +48,8 @@ ul li {
       margin-left: 60px
 }
 ul li a {
+      outline-width: 1 px;
+      outline-color: rgb (0, 0, 0); 
       display: block;
       text-decoration: none;
       font-family: hightower-text;
@@ -64,4 +64,6 @@ nav{
 }
 ul li a:hover {
     color: rgb(255, 255, 255);
+    outline-width: 1 px;
+    outline-color: rgb (255, 255, 255); 
 }
