@@ -6,6 +6,10 @@
       src: url(HTOWERT.TTF) format('truetype');
       font-family: hightower-text;
 }
+body {
+      background-color: black;
+}     
+      
     h1 {
       color: black;
       background-color: rgb(255, 192, 0);
@@ -14,10 +18,11 @@
       margin: 0px;
       font-family: hightower-text;
     }
-    h2 {
-      color: rgb(255, 192, 0);
+    div {
+      display: inline;
       background-color: black;
       margin: 0px;
       font-family: hightower-text;
       text-decoration: none;
+      color: rgb(255, 192, 0);
     }
