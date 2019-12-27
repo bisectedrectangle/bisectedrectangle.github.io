@@ -53,6 +53,8 @@ ul li a {
       font-family: hightower-text;
       color: rgb(0, 0, 0);
       padding: 0 20px;
+      text-align: center;
+      padding: 14px 16px;
 }
 
 *{
@@ -62,4 +64,8 @@ nav{
 }
 ul li a:hover {
     color: rgb(255, 255, 255);
+}
+ul li a.active {
+  background-color: #4CAF50;
+  color: white;
 }
