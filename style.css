@@ -17,7 +17,7 @@ body {
       text-align: center;
       margin: 0px;
       font-family: hightower-text;
-    }
+}
     h2 {
       display: inline;
       display: block;
@@ -26,7 +26,7 @@ body {
       font-family: hightower-text;
       text-decoration: none;
       color: rgb(255, 192, 0);
-    }
+}
 *{
       margin: 0;
       padding: 0;
@@ -44,9 +44,7 @@ ul li {
       outline: 1px solid red;
       list-style: none;
       display: inline-block;
-      float: left;
       line-height: 100px;
-      margin-left: 60px
 }
 ul li a {
       display: block;
