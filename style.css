@@ -61,6 +61,5 @@ nav{
 }
 ul li a:hover {
     color: rgb(255, 255, 255);
-    outline-width: 1 px;
-    outline-color: rgb (255, 255, 255); 
+    outline: 1px solid black;
 }
