@@ -41,6 +41,7 @@ ul {
 }
 
 ul li {
+      outline: rgb(0, 0, 0);
       list-style: none;
       display: inline-block;
       float: left;
